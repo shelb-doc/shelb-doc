@@ -1,6 +1,6 @@
 ### Hi there, I'm Shelby - aka [ReportTurret][website] 👋
 
-[![Website](https://img.shields.io/website?label=Shelby-DOC&style=for-the-badge&url=https%3A%2F%2FShelby-doc)](https://shelb-doc.github.io/SDOC-Portfolio/)
+<!-- [![Website](https://img.shields.io/website?label=Shelby-DOC&style=for-the-badge&url=https%3A%2F%2FShelby-doc)](https://shelb-doc.github.io/SDOC-Portfolio/) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/reportturret?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Freportturret&screen_name=reportturret)
 
 ## I'm a Wife, Developer, and Artist!!
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Shelby-DOC" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="Shelby-DOC" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="reportturret | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shelb-doc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="reportturret | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -38,7 +38,7 @@
 
 <img align="left" alt="Shelby GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shelb-doc&show_icons=true&hide_border=true" />
 
-[website]: https://shelb-doc.github.io/SDOC-Portfolio/
+<!-- [website]: https://shelb-doc.github.io/SDOC-Portfolio/ -->
 [twitter]: https://twitter.com/reportturret
 [instagram]: https://www.instagram.com/reportturret/
 [linkedin]: https://www.linkedin.com/in/shelbycignetti/
