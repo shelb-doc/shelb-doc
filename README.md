@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Code for 365 days and learn Spanish
 - ⚡ Fun fact: I love to draw and Volunteer at Anime and Fantasy Conventions
 
 ### Connect with me:
