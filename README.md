@@ -1,17 +1,17 @@
 ### Hi there, I'm Shelby 👋
-<!-- aka [ReportTurret][website] -->
-<!-- [![Website](https://img.shields.io/website?label=Shelby-DOC&style=for-the-badge&url=https%3A%2F%2FShelby-doc)](https://shelb-doc.github.io/SDOC-Portfolio/) -->
+aka [ReportTurret][website]
+[![Website](https://img.shields.io/website?label=Shelby-DOC&style=for-the-badge&url=https%3A%2F%2FShelby-doc)](https://shelb-doc.github.io/SDOC-Portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reportturret?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Freportturret&screen_name=reportturret)
 
 ## I'm a Wife, Developer, and Artist!!
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python and UI 
 - 🥅 2021 Goals: learn Spanish
 - ⚡ Fun fact: I love to draw and Volunteer at Anime and Fantasy Conventions
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="Shelby-DOC" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Shelby-DOC" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="reportturret | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shelb-doc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="reportturret | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -33,13 +33,14 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/spring/spring.png" />
 
 <br />
 <br />
 
 <img align="left" alt="Shelby GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shelb-doc&show_icons=true&hide_border=true" />
 
-<!-- [website]: https://shelb-doc.github.io/SDOC-Portfolio/ -->
+[website]: https://shelby-doc-portfolio.netlify.app/
 [twitter]: https://twitter.com/reportturret
 [instagram]: https://www.instagram.com/reportturret/
 [linkedin]: https://www.linkedin.com/in/shelbycignetti/
