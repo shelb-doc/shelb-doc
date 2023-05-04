@@ -5,8 +5,8 @@ aka [ReportTurret][website]
 
 ## I'm a Wife, Developer, and Artist!!
 
-- 🌱 I’m currently learning Python and UI 
-- 🥅 2022 Goals: learn Spanish
+- 🌱 I’m currently learning Python and UI design
+- 🥅 2023 Goals: learn Spanish and develop
 - ⚡ Fun fact: I love to draw and Volunteer at Anime and Fantasy Conventions
 
 ### Connect with me:
