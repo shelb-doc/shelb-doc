@@ -1,11 +1,13 @@
 ### Hi there, I'm Shelby 👋
 aka [ReportTurret][website]
 
+Im a skilled Qa Automation Tester with an above average attention to detail to find bugs 👾 before customers find them.
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/reportturret?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Freportturret&screen_name=reportturret)
 
 ## I'm a Wife, Developer, and Artist!!
 
-- 🌱 I’m currently learning Cypress testing and Frontend Development
+- 🌱 I’m currently learning to obtain Github Certification and AWS Solutions Architect Certification 
 - 🥅 2024 Goals: learn Spanish and to code more
 - ⚡ Fun fact: I love to draw and Volunteer at Anime and Fantasy Conventions
 
