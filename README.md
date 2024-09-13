@@ -1,9 +1,6 @@
 ### Hi there, I'm Shelby 👋
-aka [ReportTurret][website]
 
 Im a skilled Qa Automation Tester with an above average attention to detail to find bugs 👾 before customers find them.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/reportturret?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Freportturret&screen_name=reportturret)
 
 ## I'm a Wife, Developer, and Artist!!
 
@@ -14,9 +11,7 @@ Im a skilled Qa Automation Tester with an above average attention to detail to f
 ### Connect with me:
 
 [<img align="left" alt="Shelby-DOC" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="reportturret | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shelb-doc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="reportturret | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,7 +37,4 @@ Im a skilled Qa Automation Tester with an above average attention to detail to f
 
 <img align="left" alt="Shelby GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shelb-doc&show_icons=true&hide_border=true" />
 
-[website]: https://shelby-doc-portfolio.netlify.app/
-[twitter]: https://twitter.com/reportturret
-[instagram]: https://www.instagram.com/reportturret/
 [linkedin]: https://www.linkedin.com/in/shelbycignetti/
