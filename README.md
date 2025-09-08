@@ -1,39 +1,72 @@
-### Hi there, I'm Shelby 👋
+### Hi there, I'm Shelby 👋  
 
-Im a skilled Qa Automation Tester with an above average attention to detail to find bugs 👾 before customers find them.
+I’m a **Senior QA Automation Engineer** with a knack for spotting bugs 👾 before they ever reach customers. I combine detail-oriented testing with automation frameworks to ensure software is reliable, scalable, and user-friendly.  
 
-## I'm a Wife, Developer, and Artist!!
+---
 
-- 🌱 I’m currently learning to obtain Github Certification and AWS Solutions Architect Certification 
-- 🥅 2024 Goals: learn Spanish and to code more
-- ⚡ Fun fact: I love to draw and Volunteer at Anime and Fantasy Conventions
+## 👩‍💻 About Me  
 
-### Connect with me:
+- 💍 I'm a **Wife, Developer, and Artist**  
+- 🌱 Currently working toward **GitHub Certification** and **AWS Solutions Architect Certification**  
+- 🥅 **2025 Goals:**  
+  - Expand my test automation skills  
+  - Learn **Spanish**  
+  - Grow as a QA Lead and mentor  
+- ⚡ **Fun fact:** I love drawing and volunteering at Anime & Fantasy Conventions 🎨✨  
 
-[<img align="left" alt="shelb-doc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-<br />
+## 🌐 Connect with Me  
 
-### Languages and Tools:
+[<img align="left" alt="shelb-doc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br clear="left"/>
 
+---
 
-<br />
-<br />
+## 📌 Pinned Projects  
 
-<img align="left" alt="Shelby GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shelb-doc&show_icons=true&hide_border=true" />
+[![Bash File Organizer](https://img.shields.io/badge/Repo-Bash_File_Organizer-2ea44f?logo=github)](https://github.com/shelb-doc/bash-file-organizer)  
+
+---
+
+## 🛠️ Languages & Tools  
+
+### Core Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
+
+### QA & Testing  
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?logo=cypress&logoColor=white)  
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?logo=playwright&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+
+### Frontend / Backend  
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)  
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)  
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)  
+
+### AI & Productivity  
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?logo=githubcopilot&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)  
+
+### DevOps & Tools  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<img align="left" alt="Shelby GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shelb-doc&show_icons=true&hide_border=true&theme=radical" />
 
 [linkedin]: https://www.linkedin.com/in/shelbycignetti/
