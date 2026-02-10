@@ -8,7 +8,7 @@ I’m a **Senior QA Automation Engineer** with a knack for spotting bugs 👾 be
 
 - 💍 I'm a **Wife, Developer, and Artist**  
 - 🌱 Currently working toward **GitHub Certification** and **AWS Solutions Architect Certification**  
-- 🥅 **2025 Goals:**  
+- 🥅 **2026 Goals:**  
   - Expand my test automation skills  
   - Learn **Spanish**  
   - Grow as a QA Lead and mentor  
@@ -27,6 +27,7 @@ I’m a **Senior QA Automation Engineer** with a knack for spotting bugs 👾 be
 ## 📌 Pinned Projects  
 
 [![Bash File Organizer](https://img.shields.io/badge/Repo-Bash_File_Organizer-2ea44f?logo=github)](https://github.com/shelb-doc/bash-file-organizer)  
+[![ProBet-Sports](https://img.shields.io/badge/Repo-ProBet--Sports-2ea44f?logo=github)](https://github.com/shelb-doc/ProBet-Sports)
 
 ---
 
