@@ -66,8 +66,4 @@ I’m a **Senior QA Automation Engineer** with a knack for spotting bugs 👾 be
 
 ---
 
-## 📊 GitHub Stats  
-
-<img align="left" alt="Shelby GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shelb-doc&show_icons=true&hide_border=true&theme=radical" />
-
 [linkedin]: https://www.linkedin.com/in/shelbycignetti/
