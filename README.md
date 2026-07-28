@@ -9,7 +9,8 @@ I’m a **Senior QA Automation Engineer** with a knack for spotting bugs 👾 be
 - 💍 I'm a **Wife, Developer, and Artist**  
 - 🌱 Currently working toward **GitHub Certification** and **AWS Solutions Architect Certification**  
 - 🥅 **2026 Goals:**  
-  - Expand my test automation skills  
+  - [⏰] 8-Week AWS Solutions Architect Challenge (Week 1/8)  
+  - [🛠️] Build & test 4 automated cloud architecture pipelines  
   - Learn **Spanish**  
   - Grow as a QA Lead and mentor  
 - ⚡ **Fun fact:** I love drawing and volunteering at Anime & Fantasy Conventions 🎨✨  
