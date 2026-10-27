@@ -1,69 +1,53 @@
-### Hi there, I'm Shelby 👋  
+# Hey, I'm Shelby 👾
 
-I’m a **Senior QA Automation Engineer** with a knack for spotting bugs 👾 before they ever reach customers. I combine detail-oriented testing with automation frameworks to ensure software is reliable, scalable, and user-friendly.  
+### I professionally doubt everything.
 
----
+**Senior SDET | QA Automation Engineer | Creative Problem Solver**
 
-## 👩‍💻 About Me  
+I turn "it works on my machine" into reproducible bug reports.
 
-- 💍 I'm a **Wife, Developer, and Artist**  
-- 🌱 Currently working toward **GitHub Certification** and **AWS Solutions Architect Certification**  
-- 🥅 **2026 Goals:**  
-  - Expand my test automation skills  
-  - Learn **Spanish**  
-  - Grow as a QA Lead and mentor  
-- ⚡ **Fun fact:** I love drawing and volunteering at Anime & Fantasy Conventions 🎨✨  
+I'm a Senior Software Development Engineer in Test based in Atlanta, GA. My background spans UI automation, API and integration testing, test framework development, CI/CD, and release quality.
 
----
+I started out in art and web design, which might explain why I care just as much about the user experience as I do about what happens behind the scenes.
 
-## 🌐 Connect with Me  
+I build things. I break things. Then I figure out why they broke.
 
-[<img align="left" alt="shelb-doc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-
-<br clear="left"/>
+[Portfolio](https://shelb-doc.github.io/shelby-doc-portfolio/) • [LinkedIn](https://www.linkedin.com/in/shelbycignetti/)
 
 ---
 
-## 📌 Pinned Projects  
+## What I work with
 
-[![Bash File Organizer](https://img.shields.io/badge/Repo-Bash_File_Organizer-2ea44f?logo=github)](https://github.com/shelb-doc/bash-file-organizer)  
-[![ProBet-Sports](https://img.shields.io/badge/Repo-ProBet--Sports-2ea44f?logo=github)](https://github.com/shelb-doc/ProBet-Sports)
+- **Test automation:** Playwright, Cypress, Selenium, Ruby/Cucumber
+- **Languages:** TypeScript, JavaScript, Ruby, Python
+- **API and integration:** REST APIs, Postman, contract and workflow validation
+- **CI/CD and cloud:** GitHub Actions, Azure DevOps, AWS
+- **Quality practices:** Framework design, test strategy, debugging, reliability, release readiness
+- **AI-assisted development:** GitHub Copilot, Claude, ChatGPT
 
----
+## What I've been working on
 
-## 🛠️ Languages & Tools  
+- Migrating UI automation from Selenium-based systems to Playwright
+- Improving test reliability, execution, and reporting in CI/CD
+- Building and maintaining API and integration automation with Ruby/Cucumber
+- Exploring spec-driven development and traceability between requirements and tests
+- Learning more about AWS, serverless testing, and AI-assisted quality engineering
 
-### Core Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
+## Featured projects
 
-### QA & Testing  
-![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?logo=cypress&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?logo=playwright&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+### [My Portfolio](https://github.com/shelb-doc/shelby-doc-portfolio)
+My personal website, treated like a real software product with tests, CI/CD, and ongoing improvements.
 
-### Frontend / Backend  
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)  
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white)  
+### [ProBet Sports](https://github.com/shelb-doc/ProBet-Sports)
+A TypeScript application designed for automation practice, featuring dynamic forms, validation, and API-driven interactions.
 
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)  
+## A little more about me
 
-### AI & Productivity  
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?logo=githubcopilot&logoColor=white)  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)  
+- 🎨 BFA graduate who found her way into software quality
+- 🎮 Gamer and Pokémon enthusiast
+- 🐈 Cat parent to Mimikyu
+- 🧪 Always learning another tool, framework, or debugging technique
+- 🎟️ Convention volunteer
+- 🦆 Firm believer in rubber duck debugging
 
-### DevOps & Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
-
----
-
-[linkedin]: https://www.linkedin.com/in/shelbycignetti/
+> The computer says it works. I have questions.
